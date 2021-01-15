@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="C:/filingInsights_gradle_projects/artifactory/project-examples/gradle-examples/gradle-example-publish" value="PREVIEW" />
+        <entry key="C:/filingInsights_gradle_projects/git/FilingInsights_SecForms" value="PREVIEW" />
+        <entry key="C:/filingInsights_gradle_projects/git/dave_latest/fi_daemon" value="PREVIEW" />
+        <entry key="C:/filingInsights_gradle_projects/git/fi_server" value="PREVIEW" />
+        <entry key="C:/filingInsights_gradle_projects/git/service_request_processors/FilingInsightsCompanyStocksAlphaServer" value="PREVIEW" />
+        <entry key="C:/filingInsights_gradle_projects/git/service_request_processors/FilingInsightsProcessFilingServer" value="PREVIEW" />
+        <entry key="C:/filingInsights_gradle_projects/testGradleArtifactory/project-examples/gradle-examples/gradle-example-publish" value="PREVIEW" />
+        <entry key="C:/filinginsights/git/testSheets" value="PREVIEW" />
+        <entry key="C:/pete/googleSheetTest" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
